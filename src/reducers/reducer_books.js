@@ -1,5 +1,5 @@
 // step 1: create the reducer
-// step 2: wire reducer into our application 
+// step 2: wire reducer into our application
 export default function () {
   return [
     {title: 'Harry Potter'},
